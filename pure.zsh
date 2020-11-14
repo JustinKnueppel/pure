@@ -798,9 +798,9 @@ prompt_pure_setup() {
 		git:action           yellow
 		git:dirty            218
 		host                 242
-		path                 blue
+		path                 cyan
 		prompt:error         red
-		prompt:success       magenta
+		prompt:success       white
 		prompt:continuation  242
 		user                 242
 		user:root            default
